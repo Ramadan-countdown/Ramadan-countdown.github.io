@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://ramadan-countdown.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ramadan-countdown.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ramadan-countdown.github.io/en.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ramadan-countdown.github.io/tr.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ramadan-countdown.github.io/fr.html"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://ramadan-countdown.github.io/ur.html"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://ramadan-countdown.github.io/id.html"/>
+    <xhtml:link rel="alternate" hreflang="bn" href="https://ramadan-countdown.github.io/bn.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ramadan-countdown.github.io/es.html"/>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+
+  <url><loc>https://ramadan-countdown.github.io/en.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://ramadan-countdown.github.io/tr.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://ramadan-countdown.github.io/fr.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://ramadan-countdown.github.io/ur.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://ramadan-countdown.github.io/id.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://ramadan-countdown.github.io/bn.html</loc><priority>0.9</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://ramadan-countdown.github.io/es.html</loc><priority>0.8</priority><changefreq>daily</changefreq></url>
+
+</urlset>
